@@ -1,0 +1,2 @@
+vite: HOST=0.0.0.0 bin/vite dev
+web: bin/rails s -b 0.0.0.0 -p 3000
