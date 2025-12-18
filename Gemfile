@@ -32,7 +32,7 @@ gem "thruster", require: false
 gem "image_processing", "~> 1.2"
 
 # Inertia.js integration for Rails [https://github.com/innertiajs/inertia-rails]
-gem "inertia_rails", "~> 3.14"
+gem "inertia_rails", "~> 3.15"
 
 # Vite.js integration for Rails [https://github.com/ElMassimo/vite_rails]
 gem "vite_rails", "~> 3.0"
